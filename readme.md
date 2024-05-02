@@ -49,7 +49,7 @@ To alter the contents of the vector database, simply add/remove PDFs from the PD
 4. To start the application:
 
     ```bash
-    python manage.py
+    python main.py
     ```
 
 
