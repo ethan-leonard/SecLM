@@ -1,0 +1,147 @@
+Split PDFs into chunks: 0.0 seconds
+Split PDFs into chunks: 0.0053441524505615234 seconds
+Create embeddings model: 0.0 seconds
+Create embeddings model: 4.342129230499268 seconds
+Create Chroma vector database: 0.0 seconds
+Create Chroma vector database: 13.310453176498413 seconds
+Query Chroma vector database: 29.0521457195282 seconds
+Query Chroma vector database: 0.03762698173522949 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 0.8062505722045898 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 1.0124731063842773 seconds
+Query Chroma vector database: 23.909159421920776 seconds
+Query Chroma vector database: 0.015119552612304688 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 0.8602547645568848 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 15.454838752746582 seconds
+Query Chroma vector database: 10.401839256286621 seconds
+Query Chroma vector database: 0.015502452850341797 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 1.1757593154907227 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 10.709337949752808 seconds
+Parse PDFs into list : 0.6536343097686768 seconds
+Split PDFs into chunks: 0.0 seconds
+Split PDFs into chunks: 0.0046329498291015625 seconds
+Create embeddings model: 0.0 seconds
+Create embeddings model: 4.286679267883301 seconds
+Create Chroma vector database: 0.0 seconds
+Create Chroma vector database: 13.30390977859497 seconds
+Query Chroma vector database: 20.25611138343811 seconds
+Query Chroma vector database: 0.042395591735839844 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 0.9468128681182861 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 7.546765327453613 seconds
+Query Chroma vector database: 9.429200649261475 seconds
+Query Chroma vector database: 0.014872312545776367 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 1.0580942630767822 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 8.39023733139038 seconds
+Query Chroma vector database: 11.125349044799805 seconds
+Query Chroma vector database: 0.015418291091918945 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 1.4049372673034668 seconds
+Printing GPT-4 Turbo response: 0.0010068416595458984 seconds
+Printing GPT-4 Turbo response: 11.62727427482605 seconds
+Query Chroma vector database: 7.400296449661255 seconds
+Query Chroma vector database: 0.013973474502563477 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 1.0876190662384033 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 12.731489658355713 seconds
+Parse PDFs into list : 0.5637879371643066 seconds
+Split PDFs into chunks: 0.0 seconds
+Split PDFs into chunks: 0.004214048385620117 seconds
+Create embeddings model: 0.0 seconds
+Create embeddings model: 4.174400568008423 seconds
+Create Chroma vector database: 0.0 seconds
+Create Chroma vector database: 13.891865491867065 seconds
+Query Chroma vector database: 12.153207540512085 seconds
+Query Chroma vector database: 0.038999319076538086 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 0.8445377349853516 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 10.030264139175415 seconds
+Query Chroma vector database: 12.4447021484375 seconds
+Query Chroma vector database: 0.011259078979492188 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 0.9753615856170654 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 14.543969631195068 seconds
+Parse PDFs into list : 0.6472880840301514 seconds
+Split PDFs into chunks: 0.0 seconds
+Split PDFs into chunks: 0.0043218135833740234 seconds
+Create embeddings model: 0.0 seconds
+Create embeddings model: 4.045204162597656 seconds
+Create Chroma vector database: 0.0 seconds
+Create Chroma vector database: 12.247523069381714 seconds
+Query Chroma vector database: 14.100501537322998 seconds
+Query Chroma vector database: 0.04173159599304199 seconds
+Query GPT-4 Turbo for response: 0.0010004043579101562 seconds
+Query GPT-4 Turbo for response: 0.8182041645050049 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 1.0141737461090088 seconds
+Query Chroma vector database: 66.16935610771179 seconds
+Query Chroma vector database: 0.01354074478149414 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 0.5718059539794922 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 1.0098023414611816 seconds
+Query Chroma vector database: 29.05637240409851 seconds
+Query Chroma vector database: 0.013903379440307617 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 0.7807397842407227 seconds
+Printing GPT-4 Turbo response: 0.0005109310150146484 seconds
+Printing GPT-4 Turbo response: 1.011134386062622 seconds
+Query Chroma vector database: 22.857032299041748 seconds
+Query Chroma vector database: 0.015536308288574219 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 0.5920064449310303 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 10.401574850082397 seconds
+Query Chroma vector database: 30.30974769592285 seconds
+Query Chroma vector database: 0.014516830444335938 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 0.6654033660888672 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 11.879437685012817 seconds
+Query Chroma vector database: 30.42165780067444 seconds
+Query Chroma vector database: 0.015018463134765625 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 0.9751904010772705 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 16.88695764541626 seconds
+Query Chroma vector database: 64.07309055328369 seconds
+Query Chroma vector database: 0.016178607940673828 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 1.5290589332580566 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 13.159242153167725 seconds
+Query Chroma vector database: 26.506258726119995 seconds
+Query Chroma vector database: 0.014541387557983398 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 0.8143758773803711 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 18.422414779663086 seconds
+Query Chroma vector database: 62.39687752723694 seconds
+Query Chroma vector database: 0.013102054595947266 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 0.7679615020751953 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 5.765266418457031 seconds
+Query Chroma vector database: 21.499348640441895 seconds
+Query Chroma vector database: 0.013242483139038086 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 1.4238178730010986 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 9.604145288467407 seconds
+Query Chroma vector database: 102.54622840881348 seconds
+Query Chroma vector database: 0.015017986297607422 seconds
+Query GPT-4 Turbo for response: 0.0 seconds
+Query GPT-4 Turbo for response: 0.8272192478179932 seconds
+Printing GPT-4 Turbo response: 0.0 seconds
+Printing GPT-4 Turbo response: 12.638358354568481 seconds
