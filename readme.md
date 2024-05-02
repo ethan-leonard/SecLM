@@ -166,3 +166,5 @@ This project utilizes a log function in log.py that takes in a process name via 
 
 
 ## Video
+
+ - https://www.loom.com/share/64ade74788654c94828be52138986ca5?sid=b2664e26-0e83-47a4-a8f0-efdc1f951d8f
