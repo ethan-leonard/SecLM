@@ -59,7 +59,7 @@ def chatbot(chroma):
         if (accuracy.isdigit() and int(accuracy) in [1, 3, 5]) or accuracy == 'exit':
             break
         else:
-            print("\nInvalid input. Please enter a number between 1 and 3.\n")
+            print("\nInvalid input. Please enter a number from the following: [1, 3, 5].\n")
 
     if accuracy == 'exit':
         print("\nGoodbye!")
@@ -69,7 +69,7 @@ def chatbot(chroma):
     while True:
         # Create an instance of the OpenAI class
         client = OpenAI(
-             api_key='sk-proj-gnVtRG32ZhEsaWfC5cHXT3BlbkFJr55B5ilMfp8tIzPdvkXp',
+             api_key='sk-proj-J1sz5dVtpp71rwqrVCugT3BlbkFJXFe4IcybAtqy8RELqlE6',
         )
 
         # Get user input
