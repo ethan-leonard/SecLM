@@ -69,7 +69,7 @@ def chatbot(chroma):
     while True:
         # Create an instance of the OpenAI class
         client = OpenAI(
-             api_key='sk-proj-J1sz5dVtpp71rwqrVCugT3BlbkFJXFe4IcybAtqy8RELqlE6',
+             api_key='',
         )
 
         # Get user input
