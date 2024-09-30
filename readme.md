@@ -2,6 +2,11 @@
 
 This project is a cybersecurity AI assistant run through the terminal that utilizes PDF documents via a vector database to form its results.
 
+## Video
+
+ - https://www.loom.com/share/64ade74788654c94828be52138986ca5?sid=b2664e26-0e83-47a4-a8f0-efdc1f951d8f
+   
+
 ## Project Setup
 
 ### Prerequisites
@@ -164,7 +169,3 @@ This project utilizes a log function in log.py that takes in a process name via 
 
     - By simply implementing the vector database, there is now a far less chance that the model will hallucinate, and the responses will also be built on more factual data.
 
-
-## Video
-
- - https://www.loom.com/share/64ade74788654c94828be52138986ca5?sid=b2664e26-0e83-47a4-a8f0-efdc1f951d8f
